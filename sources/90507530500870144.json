@@ -1,0 +1,299 @@
+{
+  "name": "Nerdtank",
+  "id": "90507530500870144",
+  "sources": {
+    "56833097317_https://wwwredditcom/r/Warframe": {
+      "title": "Reddit - /r/Warframe",
+      "link": "https://reddit.com/r/Warframe.rss",
+      "channel": "362736867822665730",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": "16744748",
+          "authorTitle": "{author}",
+          "authorAvatarURL": "https://i.imgur.com/TB8kHLh.png",
+          "title": "{title}",
+          "message": "{description:hideURL}",
+          "imageURL": "{description:image1}",
+          "thumbnailURL": "http://i.imgur.com/GGzVZPL.png",
+          "footerText": "{date}",
+          "url": "{link}"
+        }
+      },
+      "webhook": {
+        "id": "385150218381033483"
+      },
+      "regexOps": {
+        "description": [{
+            "name": "hideURL",
+            "search": {
+              "flags": "gi",
+              "regex": "(http[s]?://)(.*)"
+            },
+            "replacement": ""
+          }]
+      }
+    },
+    "28905401558_WarframeTwitter": {
+      "title": "@PlayWarframe",
+      "link": "https://twitrss.me/twitter_user_to_rss/?user=Playwarframe",
+      "channel": "362736867822665730",
+      "maxAge": 2,
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": 3447003,
+          "authorTitle": "@PlayWarframe",
+          "authorAvatarURL": "{image1}",
+          "authorURL": "{link}",
+          "thumbnailURL": "http://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Twitter-icon.png",
+          "message": "{description}",
+          "imageURL": "{description:image1}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "385150218381033483"
+      }
+    },
+    "11708522569_Twitch_Warframe": {
+      "title": "Warframe's Twitch video RSS",
+      "link": "https://twitchrss.appspot.com/vod/warframe",
+      "channel": "362736867822665730",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": 10432767,
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "authorAvatarURL": "http://www.mcvuk.com/cimages/811d6239333670d8e0ea5fc7fd684cff.jpg",
+          "imageURL": "{description:image1}",
+          "footerText": "{date}"
+        }
+      }
+    },
+    "17802948199_https://forumswarframecom/forum/36generaldiscuss": {
+      "title": "General Discussion",
+      "link": "https://forums.warframe.com/forum/36-general-discussion.xml/",
+      "channel": "364750601579659265",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": 2000378,
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "message": "{description}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "364753180745138177"
+      }
+    },
+    "70150884828_https://forumswarframecom/forum/38playershelping": {
+      "title": "Players Helping Players",
+      "link": "https://forums.warframe.com/forum/38-players-helping-players.xml",
+      "channel": "364750601579659265",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": 2000378,
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "message": "{description}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "364777842233442304"
+      }
+    },
+    "12185007149_https://9gagcom/hot": {
+      "title": "9GAG",
+      "link": "http://9gag-rss.com/api/rss/get?code=9GAGHotNoGif&format=1",
+      "channel": "367864021543682049",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": 0,
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "authorAvatarURL": "http://is1.mzstatic.com/image/thumb/Purple128/v4/ad/5e/75/ad5e7549-6a04-b8c6-da53-079305f314da/mzl.nbmbqnbo.png/1200x630bb.jpg",
+          "imageURL": "{description:image1}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "367864275479560212"
+      }
+    },
+    "93692216586_/feed/indexphp": {
+      "title": "WarframeRunway",
+      "link": "http://inline-reddit.com/feed/?subreddit=WarframeRunway",
+      "channel": "362736867822665730",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": "16744748",
+          "title": "{title}",
+          "imageURL": "{description:image1}",
+          "thumbnailURL": "http://i.imgur.com/GGzVZPL.png",
+          "footerText": "{date}",
+          "url": "{link}"
+        }
+      },
+      "webhook": {
+        "id": "385150218381033483"
+      }
+    },
+    "49641368033_https://forumswarframecom/forum/84fanart/": {
+      "title": "Fan Art",
+      "link": "https://forums.warframe.com/forum/84-fan-art.xml/",
+      "channel": "364750601579659265",
+      "message": "{empty}",
+      "embedMessage": {
+        "properties": {
+          "color": "2000378",
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "message": "{description:hideURL}",
+          "imageURL": "{description:image1}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "364782286127759372"
+      },
+      "regexOps": {
+        "description": [{
+            "name": "hideURL",
+            "search": {
+              "flags": "gi",
+              "regex": "(http[s]?://)(.*)"
+            },
+            "replacement": ""
+          }]
+      }
+    },
+    "28231625145_/feed/indexphp": {
+      "title": "r/dankmemes",
+      "link": "http://inline-reddit.com/feed/?subreddit=dankmemes",
+      "channel": "367864021543682049",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": "16744748",
+          "authorAvatarURL": "https://i.imgur.com/TB8kHLh.png",
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "imageURL": "{description:image1}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "367864275479560212"
+      }
+    },
+    "28905401558_PoETwitter": {
+      "title": "@PathofExile",
+      "link": "https://twitrss.me/twitter_user_to_rss/?user=Pathofexile",
+      "channel": "385465829120016384",
+      "maxAge": 2,
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": 3447003,
+          "authorTitle": "Tweeted",
+          "authorURL": "{link}",
+          "authorAvatarURL": "{image1}",
+          "message": "{description:hideURL}",
+          "imageURL": "{description:image1}",
+          "footerIconURL": "http://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Twitter-icon.png",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "385468450744696834"
+      },
+      "regexOps": {
+        "description": [{
+            "name": "hideURL",
+            "search": {
+              "flags": "gi",
+              "regex": "(https://pbs.twimg.com/)(.*)"
+            },
+            "replacement": ""
+          }]
+      }
+    },
+    "28231625145_https://feed43.com/5253710675620487.xml": {
+      "title": "PoE Daily Deals",
+      "link": "https://feed43.com/5253710675620487.xml",
+      "channel": "385038687655952384",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": "12651008",
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "thumbnailURL": "{description:image1}",
+          "message": "{description:hideURL}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "385039623362969601"
+      },
+      "regexOps": {
+        "description": [{
+            "name": "hideURL",
+            "search": {
+              "flags": "gi",
+              "regex": "(http[s]?://)(.*)"
+            },
+            "replacement": ""
+          }]
+      }
+    },
+    "28231623225_http://www.gggtracker.com/rss": {
+      "title": "GGG Tracker",
+      "link": "http://www.gggtracker.com/rss",
+      "channel": "403015859599179786",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": "6095362",
+          "authorTitle": "{title}",
+          "authorURL": "{link}",
+          "thumbnailURL": "https://upload.wikimedia.org/wikipedia/en/0/09/Grinding_Gear_Games_logo_2012.png",
+          "message": "{description:hideURL}",
+          "footerText": "{date}"
+        }
+      },
+      "webhook": {
+        "id": "403324337383407617"
+      },
+      "regexOps": {
+        "description": [{
+            "name": "hideURL",
+            "search": {
+              "flags": "gi",
+              "regex": "(http[s]?://)(.*:)"
+            },
+            "replacement": ""
+          }]
+      }
+    }
+  }
+}
