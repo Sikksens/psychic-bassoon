@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxNews" tvg-country="US" tvg-language="English" tvg-logo="https://www.researchamerica.org/sites/default/files/logo_library/media/768px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
+#EXTVLCOPT:network-caching=1000
+http://us1.rpstv.xyz:8081/usa/foxnewshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDIzIDE6MTg6MTIgQU0maGFzaF92YWx1ZT1ZNXBXcjY1bmRPNU83dWw4THBnVTF3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="FoxBusiness" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="News",Fox Business
+#EXTVLCOPT:network-caching=1000
+http://hardcoremedia.xyz:80/Z93z4XbrQ/rWUOnULN7A/8258
+#EXTINF:-1 tvg-id="Fox News Now" tvg-country="US" tvg-language="English" tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" group-title="News",Fox News Now
+#EXTVLCOPT:network-caching=1000
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Info Wars" tvg-country="US" tvg-language="English" tvg-logo="https://i.ebayimg.com/images/g/Oc0AAOSwj99aHJdt/s-l300.jpg" group-title="News",Info Wars
+#EXTVLCOPT:network-caching=1000
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-id="Newsmax" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="News",Newsmax
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-country="US" tvg-language="English" tvg-logo="https://archive.org/download/sky-news-logo/sky-news-logo.jpg" group-title="News",Sky News
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/video/9Auq9mYxFEE.m3u8
+#EXTINF:-1 tvg-id="BlazeTV" tvg-country="US" tvg-language="English" tvg-logo="https://idme-marketplace.s3.amazonaws.com/2Ryvu2xvNnMKGUvJHaMumMCz" group-title="News",BlazeTV
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
+#EXTINF:-1 tvg-id="OAN" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/EXg_nZ2hwTkZzTnV274559uvzXJlRugUbb9ATi9bSxFh9d1YP6lUqNaMzreo1ibTUw" group-title="News",OAN
+#EXTVLCOPT:network-caching=1000
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="The First" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png" group-title="News",The First
+#EXTVLCOPT:network-caching=1000
+https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GB News" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" group-title="News",GB News
+#EXTVLCOPT:network-caching=1000
+https://ythls.onrender.com/video/8WX6YL9JnLw.m3u8
+#EXTINF:-1 tvg-id="RTNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="DWNews" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://www.pngkit.com/png/full/987-9872747_cnn-international-logo-png-cnn-logo.png" group-title="News",CNN
+#EXTVLCOPT:network-caching=1000
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Court TV" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Court_TV_2019.png" group-title="News",Court TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-id="Fox News Radio" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarJMQIEv5l1IcGD6iwlAdpx1g56EgAuZFFfzP0OXR7xJ5eWkanmgXxR18TDxedkpGrc4&usqp=CAU" group-title="News",Fox News Radio
+#EXTVLCOPT:network-caching=1000
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90XCPYTXemZzfJcEu1Zg1qHDNTjwv-Z9Fe4Jt4RW7jG6muZqcNpBxHiHtz0Jw3MDXRe4&usqp=CAU" group-title="News",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://gtv23.xyz:80/rossi/rossi/175835.m3u8
+#EXTINF:35,Law & Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBBCFood.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Cooking",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:54,80s Movies
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:60,90s Movies
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:60,00s Movies
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:60,10s Movies
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:54,20s Movies
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:25,Service
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:25,CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+#EXTINF:25,Service
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
+#EXTINF:25,Service
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:60,Channel 24
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:54,Vevo 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0,VH1 Classics
+http://168.205.87.198:8555/live/0117/123456/27.ts
+#EXTINF:-1 tvg-id="VH1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png" group-title="Music",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:60,index_720.m3u8
+#EXTVLCOPT:network-caching=1000
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:60,Red Bull TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:100,OutdoorTV
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:60,CBC News
+#EXTVLCOPT:network-caching=1000
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:61,Food Network (Dead)
+#EXTVLCOPT:network-caching=1000
+https://h4.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIxIDI6NDM6MjcgQU0maGFzaF92YWx1ZT1tK3pLM3E2MWJ6RTJLTzZuM1k5Q1BRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:60,Fox Business (Dead)
+#EXTVLCOPT:network-caching=1000
+https://h2.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIxIDI6NDY6NDQgQU0maGFzaF92YWx1ZT1DRlU2dElxWGtZL1d6Skw4MVZtQTNnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:60,188344.m3u8 (Dead)
+#EXTVLCOPT:network-caching=1000
+http://shooters.live:8080/live/0161711812846558/0161711812846558/188344.m3u8
+#EXTINF:59,unknown (Dead)
+#EXTVLCOPT:network-caching=1000
+http://31.43.191.144:25461/live/0161711812846558/0161711812846558/188340.m3u8?token=TxZaVEAJRAkXAwcFAloEAlNTAwAECQ5UBAYAB1BVUgIBAgdRBVYCC1NHHxNFFkQDBVhqUFITAwQMClYEUUkRR0dRQGpaBUQJF1cBBg5aAERIF0FQW1QbDwQeR0AIAREIFgYBAwRWRB8XAEtFUxBYBwhqUVxAWFpQFggLRQ0JHxBbWm1RVgwHXVFHCRMGQBpEDUZFGwxfTFlYHkdSCBFBU0BREA8RVVEDBkcfE1UNQwgQR0wbDBNjdBYeR1UZEVZcR11dWxFbRF4GEAsTGkBfFTtHUEpCQ1xUWVcXEltHAxAYFl9USz4FXFsLVlJCC1kIFxcPGwcTFRdZXQtZFQpBbURdVhcJQ1ICDUdO
+#EXTINF:59,History Channel
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
+#EXTINF:60,Fireplace
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+#EXTINF:120,Fireplace 2
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+#EXTINF:60,Fx Movies (dead)
+#EXTVLCOPT:network-caching=1000
+https://h4.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIxIDM6MDE6MDQgQU0maGFzaF92YWx1ZT15TXhSODhxOERoOWpVaU5wc0NNVTFnPT0mdmFsaWRtaW51dGVzPTI0MA==
